@@ -1,9 +1,9 @@
 ### Hi Rooki3Ray 👋
 
-- 🔭 I’m currently working on 
-  - NLP
-  - Knowledge Graph
-  - Knowledge Reasoning/Inference
+🔭 I’m currently working on 
+- NLP
+- Knowledge Graph
+- Knowledge Reasoning/Inference
   
 <!--
 **rooki3ray/rooki3ray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
