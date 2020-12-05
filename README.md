@@ -4,14 +4,12 @@
 - NLP
 - Knowledge Graph
 - Knowledge Reasoning/Inference
-<a href="https://github.com/rooki3ray">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=rooki3ray&show_icons=truet&include_all_commits=True&hide=contribs" alt="Rooki3Ray's github stats" />
-</a>
 
-<a href="https://github.com/rooki3ray">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=rooki3ray&layout=compact" />
-</a>
+![schenk's github stats](https://github-readme-stats.vercel.app/api?username=rooki3ray&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooki3ray&hide=html&layout=compact&theme=buefy&hide_border=true)
+
 
 
 <!--
