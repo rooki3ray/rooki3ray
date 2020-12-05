@@ -5,11 +5,11 @@
 - Knowledge Graph
 - Knowledge Reasoning/Inference
 <a href="https://github.com/rooki3ray">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=rooki3ray&layout=compact" />
+  <img align="right" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=rooki3ray&layout=compact" />
 </a>
 
 <a href="https://github.com/rooki3ray">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rooki3ray&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" alt="Rooki3Ray's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rooki3ray&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" alt="Rooki3Ray's github stats" />
 </a>
 
 
