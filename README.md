@@ -4,13 +4,14 @@
 - NLP
 - Knowledge Graph
 - Knowledge Reasoning/Inference
-
-<a href="https://github.com/rooki3ray">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rooki3ray&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</a>
 <a href="https://github.com/rooki3ray">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=rooki3ray&layout=compact" />
 </a>
+
+<a href="https://github.com/rooki3ray">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rooki3ray&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" alt="Rooki3Ray's github stats" />
+</a>
+
 
 <!--
 **rooki3ray/rooki3ray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
