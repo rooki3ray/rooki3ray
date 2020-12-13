@@ -5,7 +5,7 @@
 - Knowledge Graph
 - Knowledge Reasoning/Inference
 
-![schenk's github stats](https://github-readme-stats.vercel.app/api?username=rooki3ray&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![rooki3ray's github stats](https://github-readme-stats.vercel.app/api?username=rooki3ray&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooki3ray&hide=html&layout=compact&theme=buefy&hide_border=true)
