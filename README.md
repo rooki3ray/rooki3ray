@@ -7,6 +7,7 @@
 - CV
 - Text Spotting
 
+🏆 Award-Winning Experience
 - Bytedance Security AI Competition 2021 Track1 : 2th
 - CSIG 2022 Competition on Invoice Recognition and Analysis : 4th
 
