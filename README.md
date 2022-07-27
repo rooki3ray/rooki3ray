@@ -7,6 +7,9 @@
 - CV
 - Text Spotting
 
+- Bytedance Security AI Competition 2021 Track1 : 2th
+- CSIG 2022 Competition on Invoice Recognition and Analysis : 4th
+
 ![rooki3ray's github stats](https://github-readme-stats.vercel.app/api?username=rooki3ray&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 
 
