@@ -8,8 +8,11 @@
 - Text Spotting
 
 🏆 Award-Winning Experience
-- Bytedance Security AI Competition 2021 Track1 : 2th
+- Bytedance 2022 Security AI Competition Track1
+  - Preliminary Contest: 1st
+  - Final Contest: 1st
 - CSIG 2022 Competition on Invoice Recognition and Analysis : 4th
+- Bytedance 2021 Security AI Competition 2021 Track1 final contest: 2nd
 
 ![rooki3ray's github stats](https://github-readme-stats.vercel.app/api?username=rooki3ray&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
 
