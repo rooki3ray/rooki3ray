@@ -1,10 +1,7 @@
 ### Hi Rooki3Ray 👋
 
 🔭 I’m currently working on 
-- NLP
-- Knowledge Graph
-- Knowledge Reasoning/Inference
-- CV
+- NLP/LLM
 - Text Spotting
 
 🏆 Award-Winning Experience
